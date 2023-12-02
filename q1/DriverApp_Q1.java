@@ -1,3 +1,4 @@
+package q1;
 import java.util.Scanner;
 
 		public class DriverApp_Q1
